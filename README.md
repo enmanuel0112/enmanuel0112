@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cesar Ogando</h1>
 <h3 align="center">I'm junior software developer from Dominican Republic</h3>
-<img aling='center' width='100%' src="https://github.com/enmanuel0112/enmanuel0112/assets/76906650/52f81c68-0a29-44b9-bcea-3499e5feb7b1">
+<img aling='center' width='100%' src="https://github.com/enmanuel0112/enmanuel0112/assets/76906650/78f63974-2e0e-4bc5-96c8-f2cd045ce447">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enmanuel0112&label=Profile%20views&color=0e75b6&style=flat" alt="enmanuel0112" /> </p>
 

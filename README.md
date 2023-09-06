@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, HTML, CSS, Sass, Tailwind**
 
-- 📫 How to reach me **cesarogando0112@gmail.com , Linkedln 'césar-ogando-899a9179' , GitHub 'enmanuel0112 ' **
+- 📫 How to reach me **cesarogando0112@gmail.com **
 
 - ⚡ Fun fact **I think I really funny and firendly person**
 

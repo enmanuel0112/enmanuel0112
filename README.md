@@ -8,7 +8,7 @@
 <h2>About Me</h2>
  <h3>Who I am?</h3>
 
-      <p > Best regards, my name is Cesar Ogando, I am a junior developer looking for challenges in which I can exceed my expectations and provide better performance in my skills as a developer,
+      <p> Best regards, my name is Cesar Ogando, I am a junior developer looking for challenges in which I can exceed my expectations and provide better performance in my skills as a developer,
       I started to take my first steps in programming in 2021 learning basic HTML, CSS and JavaScript I have been in the world of programming for 2 years, which today I use frameworks such as Reacts, Sass and Tailwind CSS. 
       I am looking for a company that allows me the opportunity to grow in such a way that mutual benefit is achieved. As long as they give me the opportunity I will not disappoint them and I will give 101% in everything.
       </p>
